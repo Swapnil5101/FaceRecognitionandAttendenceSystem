@@ -1,0 +1,1 @@
+This project is a web-based attendance system that utilizes face recognition technology to automate the attendance process. It allows users to register, delete, and view attendance information through a web interface.
